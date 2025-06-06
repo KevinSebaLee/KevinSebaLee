@@ -2,9 +2,7 @@
 
 - 💡 I love building full-stack apps, solving problems and learning new technologies
 
-- 🧠 I'm interested in software architecture, automation, and system design
-
-- 📫 How to reach me: [Your Email or LinkedIn]
+- 🧠 I'm interested in everything that involves technology and software
 
 ### 🛠️ Languages and Tools:
 
